@@ -1,4 +1,6 @@
-# magic005.github.io
+<style>
+    body {
+        background-image: url("bg_img.tiff");
+    }
 
-
-# hihihi
+</style>
